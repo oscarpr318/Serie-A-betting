@@ -45,7 +45,7 @@ Under 2.5 goals -> 2.80, implied prob = 0.36**
 
 Now here are our estimated probabilities:
 
-**Home win -> 0.61\ 
+**Home win -> 0.61
 Draw -> 0.21\
 Away win -> 0.18\
 Over 2.5 goals -> 0.59\
